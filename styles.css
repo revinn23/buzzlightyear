@@ -1,0 +1,31 @@
+/* Place your CSS styles in this file */
+body {background-color: blanchedalmond;
+border:5px solid black ;
+border-radius: 15px;
+}
+
+
+h1 {
+    text-align: center;
+    font-family: "Source Sans Pro", sans-serif;
+    font-weight: normal;
+color:blue;
+
+
+}
+
+ul{list-style-type:none;
+background-color: black;
+margin-left: 3vh;
+margin-right: 3vh;
+border: solid;
+border-radius: 5vh;
+font-family: helvetica;
+color: white
+}
+li{display: inline;
+}
+
+p{
+    text-align: justify;
+}
